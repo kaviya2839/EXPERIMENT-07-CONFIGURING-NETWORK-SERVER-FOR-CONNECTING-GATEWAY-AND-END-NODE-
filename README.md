@@ -23,8 +23,8 @@ Permissioned access and log-ins for network users Gateway access to the Internet
  ![image](https://github.com/vasanthkumarch/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/36288975/1bd434ca-1426-4102-8384-94473483543e)
  3. click on the add gateway 
 ![WhatsApp Image 2023-11-04 at 11 35 08_6c5b4ac3](https://github.com/kaviya2839/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/120553351/c4ca8ead-f03b-44cf-a92c-70af51ad4867)
-![image](https://github.com/kaviya2839/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/120553351/44c5eba9-ca3c-47e5-a915-904a2fec26b7)
-![image](https://github.com/vasanthkumarch/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/36288975/a2e3ae58-6402-49e8-8f96-679059c1842c)
+![WhatsApp Image 2023-11-04 at 11 35 10_255c54fd](https://github.com/kaviya2839/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/120553351/001de0d7-b927-4e8d-a173-c5933ca66bf5)
+![WhatsApp Image 2023-11-04 at 11 35 09_c8c5e869](https://github.com/kaviya2839/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/120553351/2a84c9d4-d707-4a11-a6b8-171527b1887c)
 4. click on the lora options , lora - frequency plan 
 5. click on channel s and create a new channel after which you can add a new end device 
 ![image](https://github.com/vasanthkumarch/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/36288975/1fb72be5-e48d-4cde-a329-0cfb0d29070f)
@@ -47,7 +47,7 @@ To set APP Key
 
 
 ## OUTPUT 
-![image](https://github.com/vasanthkumarch/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/36288975/858435f2-2f59-435d-ad3f-7ecd377bd0da)
+![WhatsApp Image 2023-11-04 at 11 35 09_fbfdba20](https://github.com/kaviya2839/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/120553351/37a2626d-3052-4ac0-9050-e9c86842ec03)
 
 
 
